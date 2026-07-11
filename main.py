@@ -13,8 +13,8 @@
 import streamlit as st
 from openai import OpenAI
 
-
-modelo_ia = OpenAI(api_key=st.secrets['api_key'])
+openai_api_key = st.secrets["OPENAI_API_KEY"]
+modelo_ia = OpenAI(api_key=openai_api_key)
 
 
 # Usar # para criar titulo
