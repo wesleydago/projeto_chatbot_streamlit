@@ -13,5 +13,7 @@ Fácil execução: Basta rodar um comando no terminal para iniciar o aplicativo.
 🛠️ Tecnologias Utilizadas
 
 Python 3.8+: Linguagem de programação.
+
 Streamlit: Framework para criação rápida de aplicativos web para machine learning e data science.
+
 OpenAI Python Library: Biblioteca oficial para consumir a API de modelos da OpenAI.
