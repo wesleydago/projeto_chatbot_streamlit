@@ -9,6 +9,7 @@ Interface amigável: Design limpo e responsivo com o Streamlit.
 Memória da conversa: Utiliza st.session_state para armazenar o histórico de mensagens, permitindo que a IA "lembre" do contexto da conversa.
 Respostas em tempo real: Integração direta com o modelo GPT-4o para gerar respostas naturais e coerentes.
 Fácil execução: Basta rodar um comando no terminal para iniciar o aplicativo.
+
 🛠️ Tecnologias Utilizadas
 
 Python 3.8+: Linguagem de programação.
