@@ -1,4 +1,4 @@
-# projeto_chatbot_streamlit
+# Projeto Chatbot Streamlit
 💬 Chatbot Inteligente com Streamlit e OpenAI (GPT-4o)
 
 Este é um projeto de um chatbot interativo desenvolvido em Python utilizando o framework Streamlit para a interface e a API da OpenAI (modelo gpt-4o) para processar as respostas. O projeto demonstra conceitos fundamentais de desenvolvimento de aplicações com IA, como gerenciamento de estado (memória de conversa) e integração com modelos de linguagem de grande escala (LLMs).
